@@ -1,1 +1,2 @@
 invalid content
+invalid new content
